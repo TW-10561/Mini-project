@@ -1,4 +1,4 @@
-# Mini-project
+# project
 
 https://4b27n61r-8011.asse.devtunnels.ms/#/
 rs mistral
